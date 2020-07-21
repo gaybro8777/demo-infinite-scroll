@@ -36,7 +36,7 @@
   "dependencies": {
     "instantsearch.js": "^1.11.1",
     "jquery": "^2.1.4",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "mustache": "^2.2.1"
   }
 }
